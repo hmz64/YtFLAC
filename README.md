@@ -209,11 +209,11 @@ termux-setup-storage
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/username/ytflac?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/ytflac?style=social)
-![GitHub issues](https://img.shields.io/github/issues/username/ytflac)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/username/ytflac)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/ytflac)
+![GitHub stars](https://img.shields.io/github/stars/hmz64/YtFLAC?style=social)
+![GitHub forks](https://img.shields.io/github/forks/hmz64/YtFLAC?style=social)
+![GitHub issues](https://img.shields.io/github/issues/hmz64/YtFLAC)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/hmz64/YtFLAC)
+![GitHub last commit](https://img.shields.io/github/last-commit/hmz64/YtFLAC)
 
 </div>
 
@@ -225,7 +225,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 <div align="center">
 
-[![Contributors](https://img.shields.io/github/contributors/username/ytflac?style=flat-square)](https://github.com/username/ytflac/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/hmz64/YtFLAC?style=flat-square)](https://github.com/hmz64/YtFLAC/graphs/contributors)
 
 </div>
 
